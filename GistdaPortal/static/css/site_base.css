@@ -1,0 +1,27 @@
+.navbar-gistda .container {
+  background-color: #033a5f;
+}
+.navbar-brand {
+  padding-top: 7px;
+}
+.navbar-toggle {
+  border-color: #ffffff;
+  color: #ffffff;
+}
+.navbar-toggle .icon-bar {
+  background-color: #ffffff;
+}
+a {
+  color: #ffffff;
+}
+.dropdown-menu > li > a:focus,
+.dropdown-menu > li > a:hover {
+  color: #ffffff;
+}
+.dropdown-menu > li > a {
+  color: #ffffff;
+}
+.btn-success {
+  background: #6aa842;
+}
+/*# sourceMappingURL=site_base.css.map */
